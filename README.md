@@ -1,1 +1,2 @@
-my name is sandeep, age:23,crickter ,footballer
+my name is sandeep, age:23,crickter
+doing coding hello world 
